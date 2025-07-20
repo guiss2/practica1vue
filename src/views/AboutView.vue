@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Practica 1</h1>
+    <br>
+    <h2>Maria Guisela Huanca Torrez</h2>
   </div>
 </template>
